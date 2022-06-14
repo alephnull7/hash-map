@@ -4,7 +4,8 @@
 // References: https://docs.oracle.com/javase/8/docs/api/java/util/Map.html,
 // https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html,
 // https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html,
-// https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html
+// https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html,
+// Building Java Programs, 5th Edition: Chapters 1-18
 //
 // Purpose: Implement a hash map data structure
 // IDE: IntelliJ
